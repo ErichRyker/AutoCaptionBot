@@ -51,15 +51,15 @@ I created this bot because it might be helpful for Channel Admins/Owners, so the
 
 I am not a progrommer though it is written in my own hands 
 If you have any suggestions to update the bot for better user friendly expirience you can contact me 
-Through [@Ts_Bots](https://telegram.me/Ts_bots) or you can contact me directly.
+Through [@Ts_Bots](https://telegram.me/erichryker) or you can contact me directly.
 
 ## My Channel
 
-<b>[@Ts_Bots](https://telegram.me/ts_bots)</b>
+<b>[@Ts_Bots](https://telegram.me/ErichRykerBots)</b>
 
 
 ### Thanks to
 
 <i>❤️ Thanks to everyone in this journey</i> 
 
-<i>🥰 Thanks to [Anonymous](https://telegram.me/Ns-AnoNymouS) for helping me in all the ways</i> 
+<i>🥰 Thanks to [Anonymous](https://telegram.me/erichryker) for helping me in all the ways</i> 
