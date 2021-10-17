@@ -48,7 +48,7 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 ○ ᴠᴇʀsɪᴏɴ : 1.1.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  : [ᴛᴏᴜᴄʜ ᴍᴇ 🤗](https://github.com/Ts-bots/AutoCaption-Ts_Bot-Clone)
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  : [ᴛᴏᴜᴄʜ ᴍᴇ 🤗](https://github.com/ErichRyker/AutoCaptionBot.git)
 
 ○ ᴄʀᴇᴀᴛᴏʀ :  [ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ](https://t.me/erichryker)
  
@@ -57,7 +57,7 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 ᴛʜᴀɴᴋs ᴛᴏ ᴍʏ ʙᴇʟᴏᴠᴇᴅ ғʀɪᴇɴᴅ [ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/erichryker)__
 
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/ts_bots)**
+**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/erichryker)**
 
 """
 
