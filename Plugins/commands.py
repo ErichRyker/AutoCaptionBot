@@ -38,7 +38,7 @@ start_button=InlineKeyboardMarkup(
 
               [
 
-                  InlineKeyboardButton("📫 UPDATES", url = "https://t.me/Ts_bots"), 
+                  InlineKeyboardButton("📫 UPDATES", url = "https://t.me/ErichRykerBots"), 
 
                   InlineKeyboardButton("📕 ABOUT", callback_data = "about_data")
 
